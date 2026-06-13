@@ -1,6 +1,6 @@
 # Hi, I'm Judhy (she/her) 👋
 
-Computer Science student at UCF (GPA: 3.94) with a background in technical operations and team leadership. I'm interested in applied AI, particularly machine learning, computer vision, and medical imaging systems. Currently a teacher's assistant for Data Structures & Algorithms and Algorithms for Machine Learning.
+Computer Science student at UCF (GPA: 3.94) with a background in technical operations and team leadership. I'm interested in applied AI, particularly machine learning, computer vision, and medical imaging systems. Currently a Teaching Assistant for Data Structures & Algorithms and Algorithms for Machine Learning.
 
 ## 🔧 What I'm working on
 - **[Sudoku-ML](https://github.com/Ayloonah/Sudoku-ML)** — CNN + RL pipeline to solve Sudoku grids, with a planned computer vision component for parsing physical puzzles from photos
